@@ -1,0 +1,36 @@
+type: edu
+files:
+- name: string_formatting.py
+  visible: true
+  placeholders:
+  - offset: 138
+    length: 2
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 129
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: pFKTpgDBiCqxfvG+cg8GMw==
+  - offset: 154
+    length: 4
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 146
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: WjdmO9yCItZC2nOM/DZUGA==
+  encrypted_text: C008tCpVbf2bWeQ85pv9mUazd9ZSWm+15LQsNsNTGkhiQWOfOb7PiOlUMvOumx839a/1kIDBZFexmAo3yy4/1xak+gfbsLyQcu3J1ZrkN+u1oosKCrmreifmhn+RincIbcUNkpOnW7/H14EbmQxHX0d6rf+O9TGUl9Z88tdYxrbewM1OcC84KkehYcx6FPesJEcSLbJ80tYrFP5LUUqN2Q==
+  learner_created: false
+- name: tests.py
+  visible: false
+  encrypted_text: 6ka25xOk5wV2Eja/yJk8E5k7jJfUYkVGj8FqzASysVK++EwV2kMyIh6JnovzV0VYCEMZ+bHecHSHjnAP39GuFmEwbORzDWHD5LV9yn/+MKnAct5XwkKRrUFLsdmOg4PGhdv+h+olznau6/wev30aFCQslyji/fzj3umDD3aAyDAa43DUloCuwORBpgvS675Mnx4cDGJNWHCv9E8PC4TwhsEg+J/mk73Qb6vWlX8JOluBhHI10TmtqrkB+UVXnGvuaT5QncDSXgZMvhZndYkcv52VMb1Wj+B5uF2fL6023rfiechYvX9CrUJwQsaJg/kbN1KIyRJtGGbkwqlM+SFuKLcQxQ//1KBNQTydlJaily7KkcYslgwdXDOWCfXlvtkDWYrD1COicaM7s2W6cC3TQ5swQNW46HZZF4voqykpjPw5cUIaM3vzVzV/2XGn9D0p/GWpaCnbQmvAVCXeJzsQ+knlYYxeInglFJwSztUpc9/v1bcOztfksBoPQBRe0EV3As1tXjzURd/Iwj5kzMe7hd1QrtxLrntgOeaSPVZOghIW0+QARXnB6l2+IXi5QXVAAbuI1PbGVbUcdWuep4gmSyy3vHaPKguuh/hHcjIt32AVZlDCnxg3sUdJUYJteqLxN0KU5FdU/WMb0YXiMvt51M8vSIoXrqhf+TeOh9aVkPW+uBlAMvjBmjLHz5SBSx9O5p2Hbk3Tr07swNK/3cFurWmSG+oNCkEItHLza9T2toat2N9po13bcZv1aLr+mjIfqlLrkpUlAJt/TN7UUw1ddAO6EpGYWUi2RP3ldYKWjKZ2Hy9mR2J0XNgjsMoubl63ZZ+CGlEIw48qegYpRiZRQhc9ntbKg29yCoTM8hAnqSVngjI0HA3WyzTFmrZlx+G4yWEMPV94zCoaPuWLgTHDK4xzYcSvACN/ZGZTXPkgvrLHkv30JkVIHdHLO1EsFCOMnitSwolilK1cLwZHDw3JbPMWZNiwQxR/lRRa2RlLPry7cOH5cIsqawckNgNPJt/R
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 13 Aug 2021 08:46:32 UTC
+record: -1
